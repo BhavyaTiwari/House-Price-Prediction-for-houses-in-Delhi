@@ -1,6 +1,6 @@
 # House-Price-Prediction-for-houses-in-Delhi
 
-This project uses Linear Regression, a machine learning algorithm to solve the problem of predicting house prices of houses in New Delhi, India.
+This project uses Linear Regression, a Machine Learning algorithm, to solve the problem of predicting house prices of houses in New Delhi, India.
 
 # Model used
 
